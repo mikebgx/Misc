@@ -1,1 +1,8 @@
-# scratch
+== JUnit Quick-Start guide for Eclipse
+
+. In `Package Explorer` click to select the project where you want to add a test.
+
+. Create a new source folder called `test`
+
+
+
