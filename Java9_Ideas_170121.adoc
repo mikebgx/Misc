@@ -1,0 +1,68 @@
+== Java9 Ideas for 21/1/2017 LJC Hack The Tower - Mike Burton
+
+E&OE , rough guide! ...
+
+==== Jigsaw / Modules
+* See http://openjdk.java.net/projects/jigsaw/quick-start
+* Control access (eg Unsafe?), delineate API vs internals, module-info.java: +
+`module, requires, exports, to, uses, provides, with`
+* Services
+* Reduce footprint, java.base not rt.jar
+* module-info.java, app source directory structure, java & javac new options
+* New jar format, binary content
+* JLink bundle Java modules, app, etc into .exe
+* Changes to JDK source tree eg: +
+`jdk8/jdk/src/share/classes/java/util` becomes +
+`jdk9/jdk/src/java.base/share/classes/java/util`
+
+
+==== JShell REPL
+* See https://www.infoq.com/articles/Java9-New-HTTP-2-and-REPL (scroll down)
+* See http://blog.arungupta.me/jdk9-repl-getting-started/
+
+
+==== Process API updates
+* See http://blog.takipi.com/5-features-in-java-9-that-will-change-how-you-develop-software-and-2-that-wont/ : 5.
+
+
+==== Reactive Streams
+* JEP 266: https://community.oracle.com/docs/DOC-1006738 also see Akka, Alpakka, Lightbend.com
+
+
+==== Misc
+* JEP 269: Convenience Factory Methods for Collections +
+`List.of("a", "b", "c")` cf Java8 `Arrays.asList(zzzz)`
+* JEP 110: & JEP 244: http/2 - Binary, Streams, Concurrency, header compression, Server push 
+* JEP 230: JMH Java Microbenchmark Harness
+* Unified JVM logging (try logging from )
+* and much more, see http://openjdk.java.net/projects/jdk9/
+
+===== Misc - Details
+* http/2
+** See http://openjdk.java.net/jeps/110
+** See https://jaxenter.com/http2-has-become-the-next-big-thing-with-respect-to-web-protocols-125904.html
+** See https://www.infoq.com/articles/Java9-New-HTTP-2-and-REPL eg:
+
+ HttpResponse response = HttpRequest
+     .create(new URI("http://www.infoq.com"))
+     .body(noBody())
+     .GET().send();
+ int responseCode = response.responseCode();
+ String responseBody = response.body(asString());
+ System.out.println(responseBody);
+
+
+
+
+==== NOT in Java9, interesting future developments
+* Money and Currency API
+* Value types, Generics over primitives, project Valhallah
+* JEP 198: Standardized lightweight JSON API (to replace Jackson etc)
+* JEP 243: Graal
+
+---
+pass:[<small><sub>Java9 Ideas for 21/1/2017 LJC Hack The Tower - Mike Burton</sub></small>] 
+
+<<<
+
+
