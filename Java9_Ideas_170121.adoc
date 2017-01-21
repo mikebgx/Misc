@@ -34,7 +34,8 @@ E&OE , rough guide! ...
 `List.of("a", "b", "c")` cf Java8 `Arrays.asList(zzzz)`
 * JEP 110: & JEP 244: http/2 - Binary, Streams, Concurrency, header compression, Server push 
 * JEP 230: JMH Java Microbenchmark Harness
-* Unified JVM logging (try logging from )
+* Improvements to Stream library
+* Unified JVM logging (try logging from JVM C++ code)
 * and much more, see http://openjdk.java.net/projects/jdk9/
 
 ===== Misc - Details
