@@ -1,0 +1,34 @@
+== WDMBC MTB Routes
+
+A selection of our popular routes, all running in a loop starting and ending at The Malt Shovel. Links refer to maps & stats on RideWithGps.com, choose prefered map from the top-right `map` dropdown, the `OSM Outdoors` map is good.
+
+=== Denham Loop 16 
+===== 16 miles. Canal then bridleways around Denham and back along Canal. 
+Notes. Crosses ford by M25 then a slog uphill if muddy, to the fancy houses in "Over The MisBourne Road" +
+Map: https://ridewithgps.com/routes/18474409
+
+
+=== Hedgerley Loop 18
+===== 18 miles. To Uxbridge ind est, Fulmer, Hedgerley, Stoke Park, Black Park, Langley Park.
+Path along River Colne to Uxbridge ind est. Road up hill then bridleway & Severn Hills Rd, Road to Fulmer then trails to Dukes Valley, Wapseys Lane, Hedgerley. Road back to pick up trail through Stoke Park. Black Park, Langley Park, Love Green, Palmers Moor. +
+Map: https://ridewithgps.com/routes/18666268
+
+
+=== Chorleywood Loop 20
+===== 20 miles. Canal then bridleways to Denham, Shire Lane, Chorleywood and back along canal from Mill End.
+Notes? +
+Map: https://ridewithgps.com/routes/18666373
+
+
+=== Chorleywood Loop 22
+===== 22 miles. Canal then bridleways to Denham, Shire Lane, Chorleywood , Maple Cross and back along canal from Harefield.
+Notes: The left-turn at 13.5 miles, after crossing M25, is nice but can get boggy in winter, see Chorleywood 20 for alternative +
+https://ridewithgps.com/routes/18666144
+
+
+---
+pass:[<small><sub>data/Personal/BikeRoutes/MaltShovelLoops/MtbRoutes.adoc - Mike Burton</sub></small>] 
+ 
+<<<
+
+
