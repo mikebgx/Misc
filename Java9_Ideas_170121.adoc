@@ -1,6 +1,8 @@
 == Java9 Ideas for 21/1/2017 LJC Hack The Tower - Mike Burton
 
-E&OE , rough guide! ...
+===== Here are some ideas for exploring the new features in the forthcoming version 9 of OpenJDK.
+
+E&OE , this is just a rough guide! ...
 
 ==== Jigsaw / Modules
 * See http://openjdk.java.net/projects/jigsaw/quick-start
@@ -62,7 +64,7 @@ E&OE , rough guide! ...
 * JEP 243: Graal
 
 ---
-pass:[<small><sub>Java9 Ideas for 21/1/2017 LJC Hack The Tower - Mike Burton</sub></small>] 
+pass:[<small><sub>Java9 Ideas for 18/2/2017 LJC Hack The Tower - Mike Burton</sub></small>] 
 
 <<<
 
