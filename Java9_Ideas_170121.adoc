@@ -1,6 +1,6 @@
 == Java9 Ideas for 21/1/2017 LJC Hack The Tower - Mike Burton
 
-===== Here are some ideas for exploring the new features in the forthcoming version 9 of OpenJDK.
+===== Here are some ideas for exploring new features of the forthcoming version 9 of OpenJDK.
 
 E&OE , this is just a rough guide! ...
 
