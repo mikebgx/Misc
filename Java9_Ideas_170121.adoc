@@ -4,6 +4,10 @@
 
 E&OE , this is just a rough guide! ...
 
+Prerelease of OpenJDK9 is available at: https://jdk9.java.net/download/ +
+Or you can build it yourself of course as per: https://www.gitbook.com/book/adoptopenjdk/adoptopenjdk-getting-started-kit/details
+
+
 ==== Jigsaw / Modules
 * See http://openjdk.java.net/projects/jigsaw/quick-start
 * Control access (eg Unsafe?), delineate API vs internals, module-info.java: +
